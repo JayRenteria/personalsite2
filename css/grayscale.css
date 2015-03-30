@@ -273,6 +273,15 @@ a:focus {
     -o-background-size: cover;
 }
 
+@media screen and (max-width: 768px){
+	.port-part {
+		margin-top: 30px;
+	}
+	.port-h4 {
+		margin-bottom: 0;
+	}
+}
+
 #map {
     width: 100%;
     height: 200px;
