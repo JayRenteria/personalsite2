@@ -267,6 +267,10 @@ a:focus {
     -o-background-size: cover;
 }
 
+.port-part {
+	margin-top: 30px;
+}
+
 @media screen and (max-width: 768px){
 	.port-part {
 		margin-top: 30px;
